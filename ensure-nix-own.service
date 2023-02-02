@@ -1,0 +1,6 @@
+[Unit]
+Description=Ensure /nix ownership is correct
+Wants=ensure-nix-dir.service
+[Service]
+Type=oneshot
+ExecStart=chown -R bjk /nix
