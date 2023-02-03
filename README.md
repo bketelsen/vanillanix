@@ -1,4 +1,6 @@
 # Install Nix on VanillaOS
+** note ** 
+This will be integrated into `apx` in early February 2023, so it won't be necessary.
 
 ## WARNING
 This is *experimental* use at your own risk!
